@@ -1,1 +1,3 @@
-prova
+public interface Nuovo {
+  public void methodA(){}
+}
