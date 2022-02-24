@@ -1,3 +1,5 @@
 public interface Nuovo {
   public void methodA(){}
+  public void methodB(){}
+  public void methodC(){}
 }
